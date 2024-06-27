@@ -1,8 +1,8 @@
 {
-    "name": "Test",
-    "description": "Türkçe içerikli eklenti havuzu",
+    "name": "cloudstream",
+    "description": "cloudstream extension",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Umutkara-tools/cloudstreamm/builds/plugins.json"
+      "https://raw.githubusercontent.com/Umutkara-tools/cloudstream/builds/plugins.json"
     ]
 }
