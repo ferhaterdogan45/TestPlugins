@@ -25,6 +25,7 @@ private const val ARG_PARAM2 = "param2"
  * A simple [Fragment] subclass.
  * Use the [BlankFragment.newInstance] factory method to
  * create an instance of this fragment.
+ * Test
  */
 class BlankFragment(val plugin: TestPlugin) : BottomSheetDialogFragment() {
     // TODO: Rename and change types of parameters
